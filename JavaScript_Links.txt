@@ -1,0 +1,25 @@
+Embedded JavaScript from https://www.trivalleyplasticsurgery.com/
+
+https://www.googletagmanager.com/gtag/js?id=AW-106...37927&l=dataLayer&cx=c&gtm=45je51m0v887342592za200
+
+chrome-extension://fgddmllnllkalaagkghckoinaemmogpe/scripts/content/gps.js
+
+https://connect.facebook.net/signals/config/388969...2C59%2C31%2C99%2C58%2C55%2C49%2C78%2C72%2C24%2C113
+
+https://connect.facebook.net/en_US/fbevents.js
+
+https://www.googletagmanager.com/gtm.js?id=GTM-P5N52KV
+
+https://tracking.tresio.co/dist/bundle.js
+
+https://www.googletagmanager.com/gtag/js?id=G-T85NGWT59F
+
+https://scripts.iconnode.com/116930.js
+
+chrome-extension://dbjbempljhcmhlfpfacalomonjpalpko/scripts/inspector.js
+
+https://googleads.g.doubleclick.net/pagead/viewthr...w=0&fledge=1&data=event%3Dgtag.config&rfmt=3&fmt=4
+
+https://www.trivalleyplasticsurgery.com/assets/app....js?build=e9c662d724a01718664e1937a6f64169ac8c29ef
+
+https://www.trivalleyplasticsurgery.com/master/ass....js?build=e9c662d724a01718664e1937a6f64169ac8c29ef
